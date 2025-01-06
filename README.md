@@ -66,15 +66,6 @@ Este é um aplicativo simples de lista de tarefas. O projeto permite que os usu�
 
 ---
 
-## Scripts Disponíveis
-
-- **`npm run dev`**: Inicia o servidor de desenvolvimento.
-- **`npm run build`**: Compila o projeto para produção.
-- **`npm run start`**: Inicia o servidor em produção após o build.
-- **`npm run lint`**: Verifica o código em busca de problemas de estilo ou erros.
-
----
-
 ## Tecnologias Utilizadas
 
 - **Nuxt.js**: Framework para Vue.js.
