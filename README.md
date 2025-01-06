@@ -11,7 +11,7 @@ Este é um aplicativo simples de lista de tarefas. O projeto permite que os usu�
   node -v
   ```
 
-- **Gerenciador de Pacotes (npm ou yarn)**: Utilize **npm** (instalado junto com o Node.js) para gerenciar as dependências.
+- **Gerenciador de Pacotes (npm)**: Utilize **npm** (instalado junto com o Node.js) para gerenciar as dependências.
 
 
 ## Configuração do Ambiente
